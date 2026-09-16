@@ -173,7 +173,7 @@ export default function Hero() {
                   <p className="text-sm font-semibold text-slate-200 mt-0.5">
                     B.Tech in Computer Science (2021 – 2025)
                   </p>
-                  <p className="text-xs text-indigo-400 mt-0.5">Vardhaman College of Engineering • CGPA 7.34</p>
+                  <p className="text-xs text-indigo-400 mt-0.5">Vardhaman College of Engineering</p>
                 </div>
 
                 <div className="p-3.5 rounded-xl bg-slate-950/70 border border-slate-800/60">

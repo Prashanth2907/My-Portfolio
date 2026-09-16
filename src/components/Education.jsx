@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { educationList, certifications } from '../data/portfolioData';
 import {
   GraduationCap,
@@ -51,9 +51,6 @@ export default function Education() {
                     <h4 className="text-base sm:text-lg font-bold text-slate-100 group-hover:text-indigo-300 transition-colors">
                       {edu.degree}
                     </h4>
-                    <span className="self-start sm:self-auto text-xs font-mono font-bold px-3 py-1 rounded-full bg-indigo-950/80 text-indigo-300 border border-indigo-800/60">
-                      {edu.grade}
-                    </span>
                   </div>
 
                   <p className="text-sm font-semibold text-slate-300">
